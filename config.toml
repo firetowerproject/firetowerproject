@@ -1,0 +1,7 @@
+baseURL = "http://firetowerproject.org/"
+languageCode = "en-us"
+title = "Firetower Project"
+theme = "ananke"
+
+[params]
+description = "Firetower Project"
