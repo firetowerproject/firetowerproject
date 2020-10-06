@@ -17,6 +17,11 @@
         <h1><a href="{{ .Permalink }}" class="link black dim">{{ .Title }}</h1>{{ .Content }}</a>
         {{ end }}
     </section>
+    <section class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy mid-gray">
+        {{ with .Site.GetPage "/vision" }}
+        <h2><a href="{{ .Permalink }}" class="black dim">Read our full Vision statement</h2></a>
+        {{ end }}
+    </section>
   </article>
 
     <div class="relative w-100 mb4 bg-white nested-copy-line-height">

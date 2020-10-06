@@ -1,7 +1,8 @@
-baseURL = "firetowerproject.github.io"
+baseURL = "http://firetowerproject.org/"
 languageCode = "en-us"
 title = "Firetower Project"
 theme = "ananke"
 
 [params]
-description = "Firetower Project"
+  description = "Firetower Project"
+  # featured_image = "/images/Firetower_project_logo2.png"
