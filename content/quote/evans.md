@@ -5,5 +5,5 @@ draft: true
 author: Shawn Evans
 class: 2002
 ---
-When I heard about the Firetower Project, I knew I had to get involved. It will take many different talents across our wide alumni base to achieve the mission, but I'm looking forward to the challenge.
+When I heard about the Firetower Project, I knew I had to get involved. It will take many different talents across our wide alumni base to achieve the mission, but I'm looking forward to the challenge. Let's do this!
 

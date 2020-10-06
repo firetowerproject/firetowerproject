@@ -5,5 +5,5 @@ draft: true
 author: Zack Hollis
 class: 2002
 ---
-The time is right to take on the goal of elevating the AppState Men's Cross Country program back to the national stage. Let's do this!
+The time is right to take on the goal of elevating the AppState Men's Cross Country program back to the national stage.
 
