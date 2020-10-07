@@ -11,10 +11,12 @@
         }
     </style>
 
-  <article class="pa3 pa4-ns nested-copy-line-height nested-img">
-    <section class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy mid-gray">
         {{ with .Site.GetPage "/mission" }}
-        <h1><a href="{{ .Permalink }}" class="link black dim">{{ .Title }}</h1>{{ .Content }}</a>
+      <div class="bg-black gray overflow-hidden">
+        <h1 style="color:#ffcc00; font-size:300%" class="donate"><a href="{{ .Permalink }}" style="color:#ffcc00;" class="donate">{{ .Title }}</h1></a>
+      </div>
+    <section class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy mid-gray">
+{{.Content}}
         {{ end }}
     </section>
     <section class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy mid-gray">
@@ -22,16 +24,21 @@
         <h2><a href="{{ .Permalink }}" class="black dim">Read our full Vision statement</h2></a>
         {{ end }}
     </section>
-  </article>
 
       <div class="bg-black gray overflow-hidden">
             <h1 style="color:#ffcc00; font-size:300%" class="donate"><b><em><a style="color:#ffcc00;" target="_blank" href="https://appstate.edu">DONATE HERE</a></em></b></h1>
       </div>
 
-  <article class="pa3 pa4-ns nested-copy-line-height nested-img">
-    <section class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy mid-gray">
+</p>
+      <div class="bg-black gray overflow-hidden">
+            <h1 style="color:#ffcc00; font-size:300%" class="donate"><b><em><a style="color:#ffcc00;" href="/whoweare">ABOUT US</a></em></b></h1>
+      </div>
+
+</p>
         {{ with .Site.GetPage "/quote" }}
-        <h1><a href="{{ .Permalink }}" class="link black dim">{{ .Title }}</h1></a>
+      <div class="bg-black gray overflow-hidden">
+        <h1 style="color:#ffcc00; font-size:300%" class="donate"><a href="{{ .Permalink }}" style="color:#ffcc00;" class="donate">{{ .Title }}</h1></a>
+</div>
         {{ end }}
     </section>
     <section class="flex-ns flex-wrap justify-around mt5">
@@ -40,9 +47,7 @@
           {{- partial "quoteblock.html" . -}}
         </div>
       {{ end }}
-    </section>
     {{- template "_internal/pagination.html" . -}}
-  </article>
 
 <!--
   <article class="pa3 pa4-ns nested-copy-line-height nested-img">

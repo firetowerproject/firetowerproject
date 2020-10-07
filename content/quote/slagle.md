@@ -5,5 +5,5 @@ draft: true
 author: James Slagle
 class: 2001
 ---
-I recognize the impact that Appalachian State Cross Country has had on my life. I'm looking forward to an opportunity to contribute back to the program with other alumni.
+I recognize the impact that Appalachian State Cross Country has had on my life. I'm looking forward to this stalwart opportunity to contribute back to the program with other alumni.
 
