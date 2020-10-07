@@ -13,9 +13,13 @@ The Firetower Project was planned and organized by:
 * Brian Deal
 * James Slagle (2001)
 
-Our era captains are supporting the project by organizing efforts with groups of alumni from different eras. They captains are:
+Our era captains are supporting the project by organizing efforts with groups of alumni from different eras. The captains are:
 
 * Franklin Manchester
 * Brian Deal/Mike Mitchell
 * Brandon Hudgins
 * Chris Anderson
+
+We are also supported by the following individuals who have been assisting the Firetower Project:
+
+* Ethan Dodson
