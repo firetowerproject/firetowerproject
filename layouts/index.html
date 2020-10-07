@@ -13,7 +13,7 @@
 
         {{ with .Site.GetPage "/mission" }}
       <div class="bg-black gray overflow-hidden">
-        <h1 style="color:#ffcc00; font-size:300%" class="donate"><a href="{{ .Permalink }}" style="color:#ffcc00;" class="donate">{{ .Title }}</h1></a>
+        <h1 style="color:#ffcc00; font-size:300%" class="donate"><a href="{{ .Permalink }}" style="color:#ffcc00;" class="donate"><em>{{ .Title }}</em></h1></a>
       </div>
     <section class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy mid-gray">
 {{.Content}}
@@ -37,7 +37,7 @@
 </p>
         {{ with .Site.GetPage "/quote" }}
       <div class="bg-black gray overflow-hidden">
-        <h1 style="color:#ffcc00; font-size:300%" class="donate"><a href="{{ .Permalink }}" style="color:#ffcc00;" class="donate">{{ .Title }}</h1></a>
+        <h1 style="color:#ffcc00; font-size:300%" class="donate"><a href="{{ .Permalink }}" style="color:#ffcc00;" class="donate"><em>{{ .Title }}</em></h1></a>
 </div>
         {{ end }}
     </section>
