@@ -8,6 +8,8 @@ when it is achieving its mission.*
 
 ---
 
+![ASU Men](/warmup.png)
+
 It's the Fall of 2025. Excitement has been growing around the AppState men's
 cross country program. It's been quite a while since the team is headed into
 the regional meet with a chance at making the NCAA championship.
