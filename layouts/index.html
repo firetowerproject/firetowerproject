@@ -54,11 +54,12 @@
     </section>
     <section class="flex-ns flex-wrap justify-around mt5">
       {{ range (where .Site.RegularPages "Section" $quote_section) }}
-        <div class="relative w-100 w-30-l mb4 bg-white">
+        <div class="relative w-100 w-30-l mb4">
           {{- partial "quoteblock.html" . -}}
         </div>
       {{ end }}
-    </section>
+    {{- template "_internal/pagination.html" . -}}
+</section>
 
       <section class="center2" >
       <div>
