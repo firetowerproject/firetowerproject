@@ -25,7 +25,7 @@
         {{ end }}
 
         {{ with .Site.GetPage "/1994" }}
-		<em><h2><a href="{{ .Permalink }}" class="black dim">Photo of 1994 team</h2></em></a>
+		<em><h2><a href="{{ .Permalink }}" class="black dim">Photo of NCAA 1994 team</h2></em></a>
         {{ end }}
     </section>
 
@@ -51,7 +51,19 @@
           {{- partial "quoteblock.html" . -}}
         </div>
       {{ end }}
-    {{- template "_internal/pagination.html" . -}}
+
+      <section class="center">
+      <div>
+      <img src="/fst.png"/>
+      </div>
+      </section>
+      <p>
+      <br>
+      <section class="center">
+      <div>
+      <img src="/proverb.png"/>
+      </div>
+      </section>
 
 <!--
   <article class="pa3 pa4-ns nested-copy-line-height nested-img">
