@@ -2,7 +2,6 @@
 title: "About Us"
 date: 2020-10-06T19:53:08-04:00
 draft: true
-menu: "main"
 ---
 We are Appalachian State University Men's Cross Country alumni and supporters.
 
