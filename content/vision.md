@@ -1,6 +1,7 @@
 ---
 title: "Vision"
 date: 2020-10-05T21:00:05-04:00
+menu: "main"
 draft: true
 ---
 *Our vision statement is a reflection on the impacts of the Firetower Project
