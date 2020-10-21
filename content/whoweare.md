@@ -5,6 +5,8 @@ draft: true
 ---
 We are Appalachian State University Men's Cross Country alumni and supporters.
 
+Contact us at [firetowerproject@gmail.com](mailto:firetowerproject@gmail.com)
+
 The Firetower Project was planned and organized by:
 
 * Zack Hollis (2002)
