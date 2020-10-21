@@ -10,9 +10,9 @@ Contact us at [firetowerproject@gmail.com](mailto:firetowerproject@gmail.com)
 The Firetower Project was planned and organized by:
 
 * Zack Hollis (2002)
-* Mike Mitchell
+* Mike Mitchell (2007)
 * Shawn Evans (2002)
-* Brian Deal
+* Brian Deal (2008)
 * James Slagle (2001)
 
 Our era captains are supporting the project by organizing efforts with groups of alumni from different eras. The captains are:
