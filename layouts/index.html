@@ -25,6 +25,10 @@ text-align: center;
         {{ end }}
     </section>
     <section class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy mid-gray">
+        {{ with .Site.GetPage "/letter" }}
+        <h2><a href="{{ .Permalink }}" class="black dim center">Letter to the Alumni</h2></a>
+        {{ end }}
+
         {{ with .Site.GetPage "/vision" }}
         <h2><a href="{{ .Permalink }}" class="black dim center">Read our full Vision statement</h2></a>
         {{ end }}
