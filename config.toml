@@ -2,6 +2,7 @@ baseURL = "http://firetowerproject.org/"
 languageCode = "en-us"
 title = "Firetower Project"
 theme = "ananke"
+googleAnalytics = "G-HZWPW1JQX3"
 
 [params]
   description = "Firetower Project"
