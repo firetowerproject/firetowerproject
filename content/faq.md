@@ -18,13 +18,13 @@ There are multiple ways to contribute.  One lump sum or monthly.  Most people te
 The ASU Foundation will mail this to you after your donation.
 
 ### What if the Men’s XC program gets cut? 
-If the program gets cut, the ASU foundation keeps the money.  
+If the program gets cut, the ASU Foundation keeps the money.  
 ### What will happen to the money if the men’s XC program gets cut?
 In The Firetower Project’s contract with the ASU Foundation, this money will be available to student athletes on scholarship who choose to stay at App, with any remaining funds directed to the women’s cross country program.
 ### Is it possible for my money to be refunded if the men’s XC program is cut?
 Unfortunately, no.
 ### If we’re Yosef Club members, will we get priority points for these donations?
-No. Our fund is managed by the ASU foundation, and not the Yosef Club, so you will not receive priority points (that go towards Football season tickets or parking) for your donation. However, the entire amount of your donation will be eligible for a tax deduction, depending on your specific circumstances.
+No. Our fund is managed by the ASU Foundation, and not the Yosef Club, so you will not receive priority points (that go towards Football season tickets or parking) for your donation. However, the entire amount of your donation will be eligible for a tax deduction, depending on your specific circumstances.
 
 ### Given that Men’s Indoor Track was recently cut, shouldn’t we be worried that other XC and track programs will be cut at ASU?
 In full transparency, we have no guarantee that any other programs won’t be
