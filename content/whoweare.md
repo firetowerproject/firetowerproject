@@ -5,7 +5,7 @@ draft: true
 ---
 We are Appalachian State University Men's Cross Country alumni and supporters.
 
-Contact us at [firetowerproject@gmail.com](mailto:firetowerproject@gmail.com)
+Contact us at [team@firetowerproject.org](mailto:team@firetowerproject.com)
 
 The Firetower Project was planned and organized by:
 
