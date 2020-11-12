@@ -1,0 +1,8 @@
+<div class="relative w-100 mb4 bg-white nested-copy-line-height">
+  <div class="bg-mid-gray mb3 pa4 gray overflow-hidden">
+    <div class="white nested-links f5 lh-copy nested-copy-line-height">
+        <h2>{{ dateFormat "Monday, Jan 2, 2006" .Params.Date }}</h2>
+        {{- .Content  -}} - {{ .Params.Author }}
+    </div>
+  </div>
+</div>

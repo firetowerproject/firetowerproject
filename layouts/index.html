@@ -1,6 +1,7 @@
 {{ define "main" }}
 {{ $quote_section := "quote" }}
 {{ $testimonial_section := "testimonial" }}
+{{ $updates_section := "updates" }}
   <article class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy mid-gray">
     {{ .Content }}
   </article>
@@ -47,6 +48,23 @@ text-align: center;
       </div>
       </section>
 </p>
+      <div class="bg-black gray overflow-hidden">
+            <h1 style="color:#ffcc00; font-size:300%" class="donate"><b><em><a style="color:#ffcc00;" href="/updates">Updates</a></em></b></h1>
+      </div>
+
+      {{ $n_posts := $.Param "recent_posts_number" | default 3 }}
+
+    <section class="flex-ns flex-wrap justify-around mt5">
+        {{/* Range through the first $n_posts items of the section */}}
+        {{ range (where .Site.RegularPages "Section" $updates_section) }}
+        <div class="relative w-100 w-30-l mb4">
+            {{ partial "updates.html" . }}
+          </div>
+        {{ end }}
+      </section>
+
+</p>
+
       <div class="bg-black gray overflow-hidden">
             <h1 style="color:#ffcc00; font-size:300%" class="donate"><b><em><a style="color:#ffcc00;" href="/faq">FAQ</a></em></b></h1>
       </div>
